@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
- ~ Copyright (c) 2025, WSO2 LLC. (http://www.wso2.com)
+ ~ Copyright (c) 2026, WSO2 LLC. (http://www.wso2.com)
  ~
  ~ WSO2 LLC. licenses this file to you under the Apache License,
  ~ Version 2.0 (the "License"); you may not use this file except
@@ -271,7 +271,6 @@
         <version.restlet>[2.3.0,2.4.0)</version.restlet>
         <maven.bundle.plugin.version>3.3.0</maven.bundle.plugin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <http.version>[4.3.0,4.4.0)</http.version>
         <jetty.version>9.4.57.v20241219</jetty.version>
         <rrd4j.version>3.8.1</rrd4j.version>
         <calcite.version>1.32.0</calcite.version>
